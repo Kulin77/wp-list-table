@@ -1,0 +1,6 @@
+.ww-spt-require,.ww-spt-product-error {
+	color: red;
+}
+#ww-spt-product .form-table td, #ww-spt-product label{
+	vertical-align:top;
+}

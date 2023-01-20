@@ -1,0 +1,243 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP List Table (WP Table)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-06 13:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.2; wp-5.0.4"
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:149
+msgid " Client"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:150
+msgid " Distributor"
+msgstr ""
+
+#: includes/ww-spt-post-types.php:22 includes/admin/class-ww-spt-admin.php:42
+#: includes/admin/forms/ww-spt-product-list.php:325
+#: includes/admin/forms/__ww-spt-product-list.php:339
+msgid "Add New"
+msgstr ""
+
+#: includes/ww-spt-post-types.php:23
+#: includes/admin/forms/ww-spt-add-edit-product.php:59
+msgid "Add New Product"
+msgstr ""
+
+#: includes/ww-spt-post-types.php:26
+msgid "All Products"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:146
+msgid "Availability:"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:80
+msgid "Back to List"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:151
+msgid "Choose the product availability."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:93
+msgid "Click to toggle"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:67
+#: includes/admin/forms/__ww-spt-product-list.php:146
+msgid "Date"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:140
+#: includes/admin/forms/__ww-spt-product-list.php:112
+msgid "Delete"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:65
+#: includes/admin/forms/__ww-spt-product-list.php:143
+msgid "Description"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:130
+msgid "Description:"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:139
+#: includes/admin/forms/__ww-spt-product-list.php:111
+msgid "Edit"
+msgstr ""
+
+#: includes/ww-spt-post-types.php:24
+#: includes/admin/forms/ww-spt-add-edit-product.php:33
+msgid "Edit Product"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:162
+msgid "Enter the featured product."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:133
+msgid "Enter the product description."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:171
+msgid "Enter the product price."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:117
+msgid "Enter the product title."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:157
+msgid "Featured product:"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.worldwebtechnology.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.worldwebtechnology.com/"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:173
+#: includes/admin/forms/__ww-spt-product-list.php:198
+msgid "Items deleted (or they would be if we had items to delete)!"
+msgstr ""
+
+#: includes/ww-spt-post-types.php:25
+msgid "New Product"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:161
+msgid "No"
+msgstr ""
+
+#: includes/ww-spt-post-types.php:29
+msgid "No products found"
+msgstr ""
+
+#: includes/ww-spt-post-types.php:30
+msgid "No products found in Trash"
+msgstr ""
+
+#. Message to show when no records in database table
+#. message to show when no records in database table
+#: includes/admin/forms/ww-spt-product-list.php:185
+#: includes/admin/forms/__ww-spt-product-list.php:173
+msgid "No products found."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-save.php:31
+msgid "Please Enter Product description."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-save.php:26
+msgid "Please Enter Product title."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:66
+#: includes/admin/forms/__ww-spt-product-list.php:145
+msgid "Price"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:168
+msgid "Price:"
+msgstr ""
+
+#: includes/ww-spt-post-types.php:21
+msgid "Product"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:334
+#: includes/admin/forms/__ww-spt-product-list.php:355
+msgid "Product deleted Successfully."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:330
+#: includes/admin/forms/__ww-spt-product-list.php:347
+msgid "Product Inserted Successfully."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:332
+#: includes/admin/forms/__ww-spt-product-list.php:351
+msgid "Product Updated Successfully."
+msgstr ""
+
+#: includes/ww-spt-post-types.php:20 includes/ww-spt-post-types.php:32
+#: includes/admin/class-ww-spt-admin.php:40
+#: includes/admin/class-ww-spt-admin.php:40
+#: includes/admin/class-ww-spt-admin.php:42
+#: includes/admin/forms/ww-spt-product-list.php:324
+#: includes/admin/forms/__ww-spt-product-list.php:338
+msgid "Products"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:107
+msgid "Required fields"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:62
+msgid "Save"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:358
+#: includes/admin/forms/__ww-spt-product-list.php:372
+msgid "Search"
+msgstr ""
+
+#: includes/ww-spt-post-types.php:28
+msgid "Search Product"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:336
+#: includes/admin/forms/__ww-spt-product-list.php:359
+msgid "Status Changed Successfully."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin handles Add,Edit and Delete functinalities with <strong>"
+"WordPress post Table</strong> and Listing is managed via Wp_List_Table."
+msgstr ""
+
+#: includes/admin/forms/ww-spt-product-list.php:64
+#: includes/admin/forms/__ww-spt-product-list.php:142
+msgid "Title"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:114
+msgid "Title:"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:36
+msgid "Update"
+msgstr ""
+
+#: includes/ww-spt-post-types.php:27
+msgid "View Product"
+msgstr ""
+
+#. Author of the plugin
+msgid "World Web Technology"
+msgstr ""
+
+#. Name of the plugin
+#: includes/admin/class-ww-spt-admin.php:38
+msgid "WP List Table (WP Table)"
+msgstr ""
+
+#: includes/admin/forms/ww-spt-add-edit-product.php:160
+msgid "Yes"
+msgstr ""
